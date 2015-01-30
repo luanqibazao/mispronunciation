@@ -2,12 +2,12 @@ English mispronunciation words list
 ===
 
 ##A
-* Alaska
-
-   /əˈlaskə/
+* ##Alaska
+>###/əˈlaskə/
 
 * ##align
 >###/əˈlaɪn/
+
 * ##aluminium
 >###/al(j)ʊˈmɪnɪəm/
 
