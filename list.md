@@ -3,12 +3,15 @@ English mispronunciation words list
 ##A
 
 *##Alaska
+
 >###/əˈlaskə/
 
 *##align
+
 >###/əˈlaɪn/
 
 *##aluminium
+
 >###/al(j)ʊˈmɪnɪəm/
 
 #*B*
@@ -16,55 +19,69 @@ English mispronunciation words list
 #*C*
 
 *##canary
+
 >###/kəˈnɛːri/
 
 *##center
+
 >###/ˈsentə/
 
 *##central
+
 >###/ˈsentrəl/
 
 *##chrome
+
 >###/krəʊm/
 
 *##~~contribution~~
+
 >###/ˌkɒntrɪˈbjuːʃən/
 
 #*D*
 
 *##deprecated
+
 >###/ˈdeprɪkeɪtɪd/
 
 #*E*
 
 *##encrypt
+
 >###/ɛnˈkrɪpt/
 
 #*F*
 
 *##float
+
 >###/fləʊt/
 
 *##format
+
 >###/ˈfɔːmæt/
 
 *##formative
+
 >###/ˈfɔːmətɪv/
 
 #*G*
 
 *##GNU
+
 >###/ɡnuː/
 
 *##Gradle
+
 >###/ˈgreɪd(ə)l/
 
 #*H*
 
 *##haskell
+
 >###/ˈhæskəl/
 
 *##hirerarchy
+
 >###/ˈhʌɪərɑːki/
 
 #*I*
@@ -73,6 +90,7 @@ English mispronunciation words list
 > ###/ʌɪˈdɛnt, ˈʌɪdɛnt/
 
 *##infix
+
 >###/ɪnˈfɪks/
 
 #*J*
@@ -80,19 +98,23 @@ English mispronunciation words list
 #*K* 
 
 *##kindle
+
 >###/ˈkɪndl/
 
 #*L*
 
 *##Linux
+
 >###/lɪnəks/
 
 #*M*
 
 *##main
+
 >###/meɪn/
 
 *##measure
+
 >###/ˈmɛʒə/
 
 #*N*
@@ -102,12 +124,15 @@ English mispronunciation words list
 #*P*
 
 *##prefix
+
 >###/ˈpriːfɪks/
 
 *##prerequisite
+
 >###/priːˈrɛkwɪzɪt/
 
 *##performance
+
 >###/pəˈfɔːm(ə)ns/
 
 #*Q*
@@ -115,44 +140,57 @@ English mispronunciation words list
 #*R*
 
 *##revision
+
 >###/rɪˈvɪʒ(ə)n/
 
 *##rectangle
+
 >###/ˈrɛktaŋg(ə)l/
 
 #*S*
 
 *##safari
+
 >###/səˈfɑːrɪ/
 
 *##semicolon
+
 >###/ˌsɛmɪˈkəʊlən, -ˈkəʊlɒn/
 
 *##Siberia
+
 >###/sʌɪˈbɪərɪə/
 
 *##sliding
+
 >###/ˈslaɪdɪŋ/
 
 *##sqrt
+
 >###square root
+
 >###/skweə ruːt/
 
 *##sublime
+
 >###/səˈblaɪm/
 
 *##suffix
+
 >###/ˈsʌfɪks/
 
 *##SUSE
+
 >###/ˈsuːsə/
 
 #*T*
 
 *##titanic
+
 >###/tʌɪˈtanɪk/
 
 *##triangle
+
 >###/ˈtrʌɪaŋg(ə)l/
 
 #*U*
@@ -160,17 +198,21 @@ English mispronunciation words list
 #*V*
 
 *##version
+
 >###/ˈvɜːʃən/
 
 #*W*
 
 *##widget
+
 >###/ˈwɪdʒɪt/
 
 *##width
+
 >###/wɪdθ/
 
 *##Wikipedia
+
 >###/ˌwɪkɨˈpiːdiə, ˌwɪkiˈpiːdiə/
 
 #*X*
@@ -178,6 +220,7 @@ English mispronunciation words list
 #*Y*
 
 *##Yukon
+
 >###/ˈjuːkɒn/
 
 #*Z*
