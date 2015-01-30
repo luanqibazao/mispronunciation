@@ -1,9 +1,9 @@
 English mispronunciation words list
 ===
 
-#*A*
+##A
 * Alaska
-> /əˈlaskə/
+`/əˈlaskə/`
 * ##align
 >###/əˈlaɪn/
 * ##aluminium
