@@ -3,7 +3,9 @@ English mispronunciation words list
 
 ##A
 * Alaska
-`/əˈlaskə/`
+
+   /əˈlaskə/
+
 * ##align
 >###/əˈlaɪn/
 * ##aluminium
