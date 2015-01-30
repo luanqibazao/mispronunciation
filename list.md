@@ -1,6 +1,5 @@
 English mispronunciation words list
 ===
-
 ##A
 * ##Alaska
 >###/əˈlaskə/
