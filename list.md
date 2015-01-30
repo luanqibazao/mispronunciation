@@ -6,11 +6,11 @@ English mispronunciation words list
 
 >###/əˈlaskə/
 
-*##align
+* align
 
 >###/əˈlaɪn/
 
-*##aluminium
+* aluminium
 
 >###/al(j)ʊˈmɪnɪəm/
 
@@ -18,78 +18,78 @@ English mispronunciation words list
 
 #*C*
 
-*##canary
+* canary
 
 >###/kəˈnɛːri/
 
-*##center
+* center
 
 >###/ˈsentə/
 
-*##central
+* central
 
 >###/ˈsentrəl/
 
-*##chrome
+* chrome
 
 >###/krəʊm/
 
-*##~~contribution~~
+* ~~contribution~~
 
 >###/ˌkɒntrɪˈbjuːʃən/
 
 #*D*
 
-*##deprecated
+* deprecated
 
 >###/ˈdeprɪkeɪtɪd/
 
 #*E*
 
-*##encrypt
+* encrypt
 
 >###/ɛnˈkrɪpt/
 
 #*F*
 
-*##float
+* float
 
 >###/fləʊt/
 
-*##format
+* format
 
 >###/ˈfɔːmæt/
 
-*##formative
+* formative
 
 >###/ˈfɔːmətɪv/
 
 #*G*
 
-*##GNU
+* GNU
 
 >###/ɡnuː/
 
-*##Gradle
+* Gradle
 
 >###/ˈgreɪd(ə)l/
 
 #*H*
 
-*##haskell
+* haskell
 
 >###/ˈhæskəl/
 
-*##hirerarchy
+* hirerarchy
 
 >###/ˈhʌɪərɑːki/
 
 #*I*
 
-*##ident
+* ident
 > ###/ʌɪˈdɛnt, ˈʌɪdɛnt/
 
-*##infix
+* infix
 
 >###/ɪnˈfɪks/
 
@@ -97,23 +97,23 @@ English mispronunciation words list
 
 #*K* 
 
-*##kindle
+* kindle
 
 >###/ˈkɪndl/
 
 #*L*
 
-*##Linux
+* Linux
 
 >###/lɪnəks/
 
 #*M*
 
-*##main
+* main
 
 >###/meɪn/
 
-*##measure
+* measure
 
 >###/ˈmɛʒə/
 
@@ -123,15 +123,15 @@ English mispronunciation words list
 
 #*P*
 
-*##prefix
+* prefix
 
 >###/ˈpriːfɪks/
 
-*##prerequisite
+* prerequisite
 
 >###/priːˈrɛkwɪzɪt/
 
-*##performance
+* performance
 
 >###/pəˈfɔːm(ə)ns/
 
@@ -139,57 +139,57 @@ English mispronunciation words list
 
 #*R*
 
-*##revision
+* revision
 
 >###/rɪˈvɪʒ(ə)n/
 
-*##rectangle
+* rectangle
 
 >###/ˈrɛktaŋg(ə)l/
 
 #*S*
 
-*##safari
+* safari
 
 >###/səˈfɑːrɪ/
 
-*##semicolon
+* semicolon
 
 >###/ˌsɛmɪˈkəʊlən, -ˈkəʊlɒn/
 
-*##Siberia
+* Siberia
 
 >###/sʌɪˈbɪərɪə/
 
-*##sliding
+* sliding
 
 >###/ˈslaɪdɪŋ/
 
-*##sqrt
+* sqrt
 
 >###square root
 
 >###/skweə ruːt/
 
-*##sublime
+* sublime
 
 >###/səˈblaɪm/
 
-*##suffix
+* suffix
 
 >###/ˈsʌfɪks/
 
-*##SUSE
+* SUSE
 
 >###/ˈsuːsə/
 
 #*T*
 
-*##titanic
+* titanic
 
 >###/tʌɪˈtanɪk/
 
-*##triangle
+* triangle
 
 >###/ˈtrʌɪaŋg(ə)l/
 
@@ -197,21 +197,21 @@ English mispronunciation words list
 
 #*V*
 
-*##version
+* version
 
 >###/ˈvɜːʃən/
 
 #*W*
 
-*##widget
+* widget
 
 >###/ˈwɪdʒɪt/
 
-*##width
+* width
 
 >###/wɪdθ/
 
-*##Wikipedia
+* Wikipedia
 
 >###/ˌwɪkɨˈpiːdiə, ˌwɪkiˈpiːdiə/
 
@@ -219,7 +219,7 @@ English mispronunciation words list
 
 #*Y*
 
-*##Yukon
+* Yukon
 
 >###/ˈjuːkɒn/
 
