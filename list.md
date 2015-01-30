@@ -1,5 +1,6 @@
 English mispronunciation words list
 ===
+
 ##A
 
 * Alaska
@@ -14,9 +15,9 @@ English mispronunciation words list
 
 >###/al(j)ʊˈmɪnɪəm/
 
-#*B*
+##B
 
-#*C*
+##C
 
 * canary
 
@@ -38,19 +39,19 @@ English mispronunciation words list
 
 >###/ˌkɒntrɪˈbjuːʃən/
 
-#*D*
+##D
 
 * deprecated
 
 >###/ˈdeprɪkeɪtɪd/
 
-#*E*
+##E
 
 * encrypt
 
 >###/ɛnˈkrɪpt/
 
-#*F*
+##F
 
 * float
 
@@ -64,7 +65,7 @@ English mispronunciation words list
 
 >###/ˈfɔːmətɪv/
 
-#*G*
+##G
 
 * GNU
 
@@ -74,7 +75,7 @@ English mispronunciation words list
 
 >###/ˈgreɪd(ə)l/
 
-#*H*
+##H
 
 * haskell
 
@@ -84,7 +85,7 @@ English mispronunciation words list
 
 >###/ˈhʌɪərɑːki/
 
-#*I*
+##I
 
 * ident
 > ###/ʌɪˈdɛnt, ˈʌɪdɛnt/
@@ -93,21 +94,21 @@ English mispronunciation words list
 
 >###/ɪnˈfɪks/
 
-#*J*
+##J
 
-#*K* 
+##K
 
 * kindle
 
 >###/ˈkɪndl/
 
-#*L*
+##L
 
 * Linux
 
 >###/lɪnəks/
 
-#*M*
+##M
 
 * main
 
@@ -117,11 +118,11 @@ English mispronunciation words list
 
 >###/ˈmɛʒə/
 
-#*N*
+##N
 
-#*O*
+##O
 
-#*P*
+##P
 
 * prefix
 
@@ -135,9 +136,9 @@ English mispronunciation words list
 
 >###/pəˈfɔːm(ə)ns/
 
-#*Q*
+##Q
 
-#*R*
+##R
 
 * revision
 
@@ -147,7 +148,7 @@ English mispronunciation words list
 
 >###/ˈrɛktaŋg(ə)l/
 
-#*S*
+##S
 
 * safari
 
@@ -183,7 +184,7 @@ English mispronunciation words list
 
 >###/ˈsuːsə/
 
-#*T*
+##T
 
 * titanic
 
@@ -193,15 +194,15 @@ English mispronunciation words list
 
 >###/ˈtrʌɪaŋg(ə)l/
 
-#*U*
+##U
 
-#*V*
+##V
 
 * version
 
 >###/ˈvɜːʃən/
 
-#*W*
+##W
 
 * widget
 
@@ -215,12 +216,12 @@ English mispronunciation words list
 
 >###/ˌwɪkɨˈpiːdiə, ˌwɪkiˈpiːdiə/
 
-#*X*
+##X
 
-#*Y*
+##Y
 
 * Yukon
 
 >###/ˈjuːkɒn/
 
-#*Z*
+##Z
