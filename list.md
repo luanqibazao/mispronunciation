@@ -1,77 +1,98 @@
 English mispronunciation words list
 ===
 ##A
-* ##Alaska
+
+*##Alaska
 >###/əˈlaskə/
 
-* ##align
+*##align
 >###/əˈlaɪn/
 
-* ##aluminium
+*##aluminium
 >###/al(j)ʊˈmɪnɪəm/
 
 #*B*
 
 #*C*
-* ##canary
+
+*##canary
 >###/kəˈnɛːri/
-* ##center
+
+*##center
 >###/ˈsentə/
-* ##central
+
+*##central
 >###/ˈsentrəl/
-* ##chrome
+
+*##chrome
 >###/krəʊm/
-* ##~~contribution~~
+
+*##~~contribution~~
 >###/ˌkɒntrɪˈbjuːʃən/
 
 #*D*
-* ##deprecated
+
+*##deprecated
 >###/ˈdeprɪkeɪtɪd/
 
 #*E*
-* ##encrypt
+
+*##encrypt
 >###/ɛnˈkrɪpt/
 
 #*F*
-* ##float
+
+*##float
 >###/fləʊt/
-* ##format
+
+*##format
 >###/ˈfɔːmæt/
-* ##formative
+
+*##formative
 >###/ˈfɔːmətɪv/
 
 #*G*
-* ##GNU
+
+*##GNU
 >###/ɡnuː/
-* ##Gradle
+
+*##Gradle
 >###/ˈgreɪd(ə)l/
 
 #*H*
-* ##haskell
+
+*##haskell
 >###/ˈhæskəl/
-* ##hirerarchy
+
+*##hirerarchy
 >###/ˈhʌɪərɑːki/
 
 #*I*
-* ##ident
+
+*##ident
 > ###/ʌɪˈdɛnt, ˈʌɪdɛnt/
-* ##infix
+
+*##infix
 >###/ɪnˈfɪks/
 
 #*J*
 
 #*K* 
-* ##kindle
+
+*##kindle
 >###/ˈkɪndl/
 
 #*L*
-* ##Linux
+
+*##Linux
 >###/lɪnəks/
 
 #*M*
-* ##main
+
+*##main
 >###/meɪn/
-* ##measure
+
+*##measure
 >###/ˈmɛʒə/
 
 #*N*
@@ -79,64 +100,84 @@ English mispronunciation words list
 #*O*
 
 #*P*
-* ##prefix
+
+*##prefix
 >###/ˈpriːfɪks/
-* ##prerequisite
+
+*##prerequisite
 >###/priːˈrɛkwɪzɪt/
-* ##performance
+
+*##performance
 >###/pəˈfɔːm(ə)ns/
 
 #*Q*
 
 #*R*
-* ##revision
+
+*##revision
 >###/rɪˈvɪʒ(ə)n/
-* ##rectangle
+
+*##rectangle
 >###/ˈrɛktaŋg(ə)l/
 
 #*S*
-* ##safari
+
+*##safari
 >###/səˈfɑːrɪ/
-* ##semicolon
+
+*##semicolon
 >###/ˌsɛmɪˈkəʊlən, -ˈkəʊlɒn/
-* ##Siberia
+
+*##Siberia
 >###/sʌɪˈbɪərɪə/
-* ##sliding
+
+*##sliding
 >###/ˈslaɪdɪŋ/
-* ##sqrt
+
+*##sqrt
 >###square root
 >###/skweə ruːt/
-* ##sublime
+
+*##sublime
 >###/səˈblaɪm/
-* ##suffix
+
+*##suffix
 >###/ˈsʌfɪks/
-* ##SUSE
+
+*##SUSE
 >###/ˈsuːsə/
 
 #*T*
-* ##titanic
+
+*##titanic
 >###/tʌɪˈtanɪk/
-* ##triangle
+
+*##triangle
 >###/ˈtrʌɪaŋg(ə)l/
 
 #*U*
 
 #*V*
-* ##version
+
+*##version
 >###/ˈvɜːʃən/
 
 #*W*
-* ##widget
+
+*##widget
 >###/ˈwɪdʒɪt/
-* ##width
+
+*##width
 >###/wɪdθ/
-* ##Wikipedia
+
+*##Wikipedia
 >###/ˌwɪkɨˈpiːdiə, ˌwɪkiˈpiːdiə/
 
 #*X*
 
 #*Y*
-* ##Yukon
+
+*##Yukon
 >###/ˈjuːkɒn/
 
 #*Z*
