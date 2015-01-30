@@ -2,7 +2,7 @@ English mispronunciation words list
 ===
 ##A
 
-* ##Alaska
+* Alaska
 >###/əˈlaskə/
 
 *##align
