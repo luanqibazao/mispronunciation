@@ -88,7 +88,8 @@ English mispronunciation words list
 ##I
 
 * ident
-> ###/ʌɪˈdɛnt, ˈʌɪdɛnt/
+
+>###/ʌɪˈdɛnt, ˈʌɪdɛnt/
 
 * infix
 
