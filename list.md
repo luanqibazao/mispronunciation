@@ -15,6 +15,10 @@ English mispronunciation words list
 
 >###/al(j)ʊˈmɪnɪəm/
 
+* archaeopteryx
+
+>###/ˌɑːkɪˈɒptərɪks/
+
 ##B
 
 ##C
