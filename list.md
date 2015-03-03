@@ -95,6 +95,10 @@ English mispronunciation words list
 
 >###/ʌɪˈdɛnt, ˈʌɪdɛnt/
 
+* IELTS
+
+>###/ˈaɪ.ɛlts/
+
 * infix
 
 >###/ɪnˈfɪks/
