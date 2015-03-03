@@ -163,6 +163,10 @@ English mispronunciation words list
 
 >###/səˈfɑːrɪ/
 
+* semantic
+
+>###/sɪˈmantɪk/
+
 * semicolon
 
 >###/ˌsɛmɪˈkəʊlən, -ˈkəʊlɒn/
