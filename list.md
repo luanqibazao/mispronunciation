@@ -7,6 +7,9 @@ English mispronunciation words list
 
 >###/əˈlaskə/
 
+* alias
+>###/ˈeɪlɪəs/
+
 * align
 
 >###/əˈlaɪn/
