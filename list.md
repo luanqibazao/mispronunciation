@@ -126,6 +126,10 @@ English mispronunciation words list
 
 >###/meɪn/
 
+* marquee
+
+>###/mɑ:`ki:/
+
 * measure
 
 >###/ˈmɛʒə/
