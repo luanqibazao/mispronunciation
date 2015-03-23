@@ -152,6 +152,9 @@ English mispronunciation words list
 
 >###/pəˈfɔːm(ə)ns/
 
+* purge
+>###/pəːdʒ/
+
 ##Q
 
 ##R
