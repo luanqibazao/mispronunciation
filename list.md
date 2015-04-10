@@ -106,6 +106,10 @@ English mispronunciation words list
 
 >###/ɪnˈfɪks/
 
+* interpolator
+
+>###/ɪnˈtəːpəleɪtə/
+
 ##J
 
 ##K
