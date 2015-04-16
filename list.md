@@ -171,6 +171,9 @@ English mispronunciation words list
 
 >###/ˈrɛktaŋg(ə)l/
 
+* representational
+>##/ˌrɛprɪzɛnˈteɪʃ(ə)n(ə)l/
+
 ##S
 
 * safari
