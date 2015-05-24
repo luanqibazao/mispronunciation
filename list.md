@@ -74,6 +74,10 @@ English mispronunciation words list
 
 ##G
 
+* generic
+
+>###/dʒɪˈnɛrɪk/
+
 * GNU
 
 >###/ɡnuː/
