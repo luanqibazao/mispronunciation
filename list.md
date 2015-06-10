@@ -60,6 +60,10 @@ English mispronunciation words list
 
 ##F
 
+* feature
+
+>###/ˈfiːtʃə/
+
 * float
 
 >###/fləʊt/
