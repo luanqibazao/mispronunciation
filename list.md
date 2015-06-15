@@ -22,6 +22,10 @@ English mispronunciation words list
 
 >###/ˌɑːkɪˈɒptərɪks/
 
+* assignee
+
+>###/asɪˈniː, -sʌɪ-/
+
 ##B
 
 ##C
