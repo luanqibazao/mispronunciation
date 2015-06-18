@@ -64,6 +64,10 @@ English mispronunciation words list
 
 ##F
 
+* facet
+
+>###/ˈfasɪt, -ɛt/
+
 * feature
 
 >###/ˈfiːtʃə/
