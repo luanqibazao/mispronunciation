@@ -3,6 +3,10 @@ English mispronunciation words list
 
 ##A
 
+* address
+
+>###/əˈdrɛs/
+
 * Alaska
 
 >###/əˈlaskə/
