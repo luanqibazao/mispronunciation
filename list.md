@@ -263,6 +263,10 @@ English mispronunciation words list
 
 >###/wɪdθ/
 
+* wisdom
+
+>###/ˈwɪzdəm/
+
 * Wikipedia
 
 >###/ˌwɪkɨˈpiːdiə, ˌwɪkiˈpiːdiə/
