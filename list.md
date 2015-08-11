@@ -19,6 +19,10 @@ English mispronunciation words list
 
 >###/əˈlaɪn/
 
+* Alphabet
+
+>###/ˈalfəbɛt/
+
 * aluminium
 
 >###/al(j)ʊˈmɪnɪəm/
